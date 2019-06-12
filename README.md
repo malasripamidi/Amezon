@@ -1,2 +1,2 @@
-# Amezon
+# Amazon
 e commerce
